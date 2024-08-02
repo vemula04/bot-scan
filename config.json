@@ -1,0 +1,44 @@
+{
+    "name": "Coder Review Bot",
+    "envVariables": [
+        {
+            "key": "API_TOKEN",
+            "value": "9o1jUWrQSspQdeRoLeUw92F9nvpmlMvwm0Fn5CM6n_w.TBR-LbZYdqHQABfhcQQRP9vS5TSs2NgBQy-JxuGGpC4",
+            "variableType": "env",
+            "hint": "Codesence api token",
+            "scope": "prePopulated",
+            "group": "",
+            "propagateValue": false,
+            "vNameSpace": [
+                "611ab13d-5355-58fc-b364-66ed09d349db"
+            ],
+            "isSecured": false
+        },
+        {
+            "key": "PROJECT_ID",
+            "value": "1234",
+            "variableType": "env",
+            "hint": "Codesense configured Project ID",
+            "scope": "prePopulated",
+            "group": "",
+            "propagateValue": false,
+            "vNameSpace": [
+                "611ab13d-5355-58fc-b364-66ed09d349db"
+            ],
+            "isSecured": false
+        },
+        {
+            "key": "CODESENSE_BASE_URL",
+            "value": "https://api.codescene.io",
+            "variableType": "env",
+            "hint": "",
+            "scope": "prePopulated",
+            "group": "",
+            "propagateValue": false,
+            "vNameSpace": [
+                "611ab13d-5355-58fc-b364-66ed09d349db"
+            ],
+            "isSecured": false
+        }
+    ]
+}
